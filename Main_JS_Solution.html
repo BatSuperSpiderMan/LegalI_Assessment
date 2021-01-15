@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Reverse String without charecters</title>
+</head>
+<body>
+<input type="text" id="inputString"><br>
+<input type="button" onclick="reverseString()" value="Reverse string">
+<p id="output"></p>
+</body>
+</html>
+<script>
+
+
+	function reverseString(str){
+		var inputString = document.getElementById('inputString').value;
+		
+		let checkletter=(str)=>{
+							let pattern=/[a-zA-z0-9]/igm;
+							if(str.match(pattern)){
+									return true
+							}else{
+									return false
+							}
+					}
+					
+				let r=(str)=>{
+							let charArray=str.split('');
+							let l=0;
+							let r=charArray.length-1;
+							while(l<r){
+									if (!checkletter(charArray[l])){
+											l++;
+									}else if(!checkletter(charArray[r])){
+											r--;
+									}else{
+											let tmp=charArray[l];
+											charArray[l]=charArray[r];
+											charArray[r]=tmp;
+											l++;
+											r--;
+									}
+							}
+					 return charArray.join('');
+					}
+					
+					document.getElementById('output').innerHTML = r(inputString);						
+	}
+</script>

@@ -1,0 +1,13 @@
+C:\Users\thapelo.sekwena\source\repos\StringReversal_CodeAssesment\StringReversal_CodeAssesment\bin\Debug\netcoreapp3.1\StringReversal_CodeAssesment.exe
+C:\Users\thapelo.sekwena\source\repos\StringReversal_CodeAssesment\StringReversal_CodeAssesment\bin\Debug\netcoreapp3.1\StringReversal_CodeAssesment.deps.json
+C:\Users\thapelo.sekwena\source\repos\StringReversal_CodeAssesment\StringReversal_CodeAssesment\bin\Debug\netcoreapp3.1\StringReversal_CodeAssesment.runtimeconfig.json
+C:\Users\thapelo.sekwena\source\repos\StringReversal_CodeAssesment\StringReversal_CodeAssesment\bin\Debug\netcoreapp3.1\StringReversal_CodeAssesment.runtimeconfig.dev.json
+C:\Users\thapelo.sekwena\source\repos\StringReversal_CodeAssesment\StringReversal_CodeAssesment\bin\Debug\netcoreapp3.1\StringReversal_CodeAssesment.dll
+C:\Users\thapelo.sekwena\source\repos\StringReversal_CodeAssesment\StringReversal_CodeAssesment\bin\Debug\netcoreapp3.1\StringReversal_CodeAssesment.pdb
+C:\Users\thapelo.sekwena\source\repos\StringReversal_CodeAssesment\StringReversal_CodeAssesment\obj\Debug\netcoreapp3.1\StringReversal_CodeAssesment.csprojAssemblyReference.cache
+C:\Users\thapelo.sekwena\source\repos\StringReversal_CodeAssesment\StringReversal_CodeAssesment\obj\Debug\netcoreapp3.1\StringReversal_CodeAssesment.AssemblyInfoInputs.cache
+C:\Users\thapelo.sekwena\source\repos\StringReversal_CodeAssesment\StringReversal_CodeAssesment\obj\Debug\netcoreapp3.1\StringReversal_CodeAssesment.AssemblyInfo.cs
+C:\Users\thapelo.sekwena\source\repos\StringReversal_CodeAssesment\StringReversal_CodeAssesment\obj\Debug\netcoreapp3.1\StringReversal_CodeAssesment.csproj.CoreCompileInputs.cache
+C:\Users\thapelo.sekwena\source\repos\StringReversal_CodeAssesment\StringReversal_CodeAssesment\obj\Debug\netcoreapp3.1\StringReversal_CodeAssesment.dll
+C:\Users\thapelo.sekwena\source\repos\StringReversal_CodeAssesment\StringReversal_CodeAssesment\obj\Debug\netcoreapp3.1\StringReversal_CodeAssesment.pdb
+C:\Users\thapelo.sekwena\source\repos\StringReversal_CodeAssesment\StringReversal_CodeAssesment\obj\Debug\netcoreapp3.1\StringReversal_CodeAssesment.genruntimeconfig.cache
